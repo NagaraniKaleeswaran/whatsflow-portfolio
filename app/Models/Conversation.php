@@ -1,0 +1,16 @@
+<?php
+namespace App\Models;
+use Illuminate\Database\Eloquent\Model;
+
+class Conversation extends Model
+{
+    protected $guarded = [];
+
+    protected $casts = [
+        'last_message_at' => 'datetime',
+    ];
+
+    public function user() { return $this->belongsTo(User::class); }
+    public function lead() { return $this->belongsTo(Lead::class); }
+    public function messages() { return $this->hasMany(Message::class); }
+}
