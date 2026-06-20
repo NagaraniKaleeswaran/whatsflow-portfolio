@@ -381,9 +381,9 @@
                     <p class="text-indigo-400">Laravel Full Stack Developer</p>
                 </div>
                 <div class="flex gap-4">
-                    <a href="#" class="text-slate-400 hover:text-white transition-colors font-semibold">Portfolio</a>
+                    <a href="https://nagarani.esikalee.com/" class="text-slate-400 hover:text-white transition-colors font-semibold">Portfolio</a>
                     <span class="text-slate-700">•</span>
-                    <a href="#" class="text-slate-400 hover:text-white transition-colors font-semibold">GitHub</a>
+                    <a href="https://github.com/NagaraniKaleeswaran/whatsflow-portfolio" class="text-slate-400 hover:text-white transition-colors font-semibold">GitHub</a>
                     <span class="text-slate-700">•</span>
                     <a href="https://www.linkedin.com/in/nagarani-kaleeswaran-1a8a71387" class="text-slate-400 hover:text-white transition-colors font-semibold">LinkedIn</a>
                     <span class="text-slate-700">•</span>
