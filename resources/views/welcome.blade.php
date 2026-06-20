@@ -385,7 +385,9 @@
                     <span class="text-slate-700">•</span>
                     <a href="#" class="text-slate-400 hover:text-white transition-colors font-semibold">GitHub</a>
                     <span class="text-slate-700">•</span>
-                    <a href="#" class="text-slate-400 hover:text-white transition-colors font-semibold">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/nagarani-kaleeswaran-1a8a71387" class="text-slate-400 hover:text-white transition-colors font-semibold">LinkedIn</a>
+                    <span class="text-slate-700">•</span>
+                    <a href="https://www.upwork.com/freelancers/~01513ffa2a648ffb4e?mp_source=share" class="text-slate-400 hover:text-white transition-colors font-semibold">Upwork</a>
                 </div>
             </div>
         </div>
